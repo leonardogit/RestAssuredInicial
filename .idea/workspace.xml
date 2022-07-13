@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c5b7a09-93ec-43e0-9f1d-2ee68818cb7c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RestAssuredTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RestAssuredTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RestAssuredTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/RestAssuredTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2BdocZ7cQvN6gwO1lR9pSxHyuMz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.RestAssuredTest">
+    <configuration name="RestAssuredTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RestAssuredTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestAssuredTest.getTheApiCat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RestAssuredTest" />
+      <option name="METHOD_NAME" value="getTheApiCat" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestAssuredTest.postTheApiCat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RestAssuredTest" />
+      <option name="METHOD_NAME" value="postTheApiCat" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestAssuredTest.putApiUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RestAssuredTest" />
+      <option name="METHOD_NAME" value="putApiUsers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RestAssuredTest" />
+        <item itemvalue="JUnit.RestAssuredTest.putApiUsers" />
+        <item itemvalue="JUnit.RestAssuredTest.getTheApiCat" />
+        <item itemvalue="JUnit.RestAssuredTest.postTheApiCat" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c5b7a09-93ec-43e0-9f1d-2ee68818cb7c" name="Default Changelist" comment="" />
+      <created>1657245402679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657245402679</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Primeiro commit">
+      <created>1657640148673</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657640148673</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeiro commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiro commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="934" y="111" key="CommitChangelistDialog2" timestamp="1657640263518">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="934" y="111" key="CommitChangelistDialog2/0.0.2560.1040/2560.7.1920.1040@0.0.2560.1040" timestamp="1657640263518" />
+    <state width="2517" height="251" key="GridCell.Tab.0.bottom" timestamp="1657650892752">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="251" key="GridCell.Tab.0.bottom/0.0.2560.1040/2560.7.1920.1040@0.0.2560.1040" timestamp="1657650892752" />
+    <state width="2517" height="251" key="GridCell.Tab.0.center" timestamp="1657650892752">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="251" key="GridCell.Tab.0.center/0.0.2560.1040/2560.7.1920.1040@0.0.2560.1040" timestamp="1657650892752" />
+    <state width="2517" height="251" key="GridCell.Tab.0.left" timestamp="1657650892752">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="251" key="GridCell.Tab.0.left/0.0.2560.1040/2560.7.1920.1040@0.0.2560.1040" timestamp="1657650892752" />
+    <state width="2517" height="251" key="GridCell.Tab.0.right" timestamp="1657650892752">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="251" key="GridCell.Tab.0.right/0.0.2560.1040/2560.7.1920.1040@0.0.2560.1040" timestamp="1657650892752" />
+    <state x="872" y="253" key="Vcs.Push.Dialog.v2" timestamp="1657640284683">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="872" y="253" key="Vcs.Push.Dialog.v2/0.0.2560.1040/2560.7.1920.1040@0.0.2560.1040" timestamp="1657640284683" />
+    <state x="976" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1657640069289">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="976" y="344" key="com.intellij.ide.util.TipDialog/0.0.2560.1040/2560.7.1920.1040@0.0.2560.1040" timestamp="1657640069289" />
+  </component>
+</project>
